@@ -18,7 +18,7 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "twitter-api-v2": "^1.6.5"
   }
 }
